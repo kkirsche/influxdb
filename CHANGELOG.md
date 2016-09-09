@@ -11,6 +11,7 @@
 - [#6992](https://github.com/influxdata/influxdb/issues/6992): Support tools for running async queries.
 - [#7136](https://github.com/influxdata/influxdb/pull/7136): Update jwt-go dependency to version 3.
 - [#6962](https://github.com/influxdata/influxdb/issues/6962): Support ON and use default database for SHOW commands.
+- [#7281](https://github.com/influxdata/influxdb/pull/7281): Add stats for active compactions, compaction errors.
 
 ### Bugfixes
 
